@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CustomServiceUpload.UploadService">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="CustomServiceUpload.UploadService.UploadServiceProgressChangedEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UploadService.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAJAAAAAAAIAAACAAAAAA=</HashCode>
+      <FileName>UploadService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomServiceUpload.UploadServiceInfo">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAQAAgAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>UploadServiceInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomServiceUpload.CustomUploadService">
+    <Position X="9" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAAAACAAAAAACAAQQCACAAAAEYAAAAAAAAAA=</HashCode>
+      <FileName>CustomUploadService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomServiceUpload.UploadServiceProgressChangedEventArgs">
+    <Position X="9" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>UploadServiceProgressChangedEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CustomServiceUpload.ProgressStream">
+    <Position X="6.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAABAAAAAgIAAAAEAAIAAAAAAAAAE=</HashCode>
+      <FileName>ProgressStream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
